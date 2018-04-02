@@ -12,6 +12,8 @@
         <module>consulclient</module>
         <module>consulservice1</module>
         <module>consulclient1</module>
+        <module>consulservice3</module>
+        <module>consulclient3</module>
     </modules>
 
 
